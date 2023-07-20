@@ -77,6 +77,14 @@ git clone https://github.com/curol/next-enterprise-template.git
 
 2. Install the dependencies:
 
+Install node >=18.15.0
+
+```bash
+nvm install v18.15.0
+```
+
+Install modules
+
 ```bash
 yarn install --frozen-lockfile
 ```
